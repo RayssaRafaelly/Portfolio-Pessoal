@@ -1,6 +1,6 @@
 # Portfolio-Pessoal
 
-Projeto criado utilizando exemplo do bootstrap para ensino de uso do README e do boostrap
+Projeto criado utilizando exemplo do bootstrap para ensino de uso do README
 
 ## Descrição
 
