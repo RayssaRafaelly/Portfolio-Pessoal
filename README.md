@@ -1,14 +1,15 @@
 # Índice 
 
-[Projeto de portfolio pessoaal](#portfolio-pessoal)
-[Descrição](#descri%C3%A7%C3%A3o)
-[Introdução](#introdu%C3%A7%C3%A3o)
-[Funcionalidades](#funcionalidades)
-[Tecnologias utilizadas](#tecnologias-utilizadas)
-[Fontes consultadas](#fontes-consultadas)
-[Autores](#autores)
+[Projeto de portfolio pessoaal](#portfolio-pessoal)  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Introdução](#introdu%C3%A7%C3%A3o)  
+[Funcionalidades](#funcionalidades)  
+[Tecnologias utilizadas](#tecnologias-utilizadas)  
+[Fontes consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
 # Portfolio-Pessoal
+![Capa do projeto](img/capa.png)
 
 Projeto criado utilizando exemplo do bootstrap para ensino de uso do README
 
@@ -23,3 +24,4 @@ Projeto criado utilizando exemplo do bootstrap para ensino de uso do README
 ## Fontes consultadas
 
 ## Autores 
+
