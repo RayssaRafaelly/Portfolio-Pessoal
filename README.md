@@ -28,16 +28,16 @@ inferior da página.
 
 ### Tecnologias utilizadas 
 nesse Projeto usamos:
-HTML
-CSS
-VSCODE
-Bootstrap
-GitHub
-Git
+* ``HTML``
+* ``CSS``
+* ``VSCODE``
+* ``Bootstrap``
+* ``GitHub``
+* ``Git``
 
 ## Fontes consultadas
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
-https://www.alura.com.br/artigos/escrever-bom-readme
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+ * [Gits Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) -modelo para fazer um bom README
 
 ## Autores
 executado por Rayssa Rafaelly Kopinski com orientação do Professor Leonardo Rocha.
