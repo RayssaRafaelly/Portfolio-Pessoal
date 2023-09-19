@@ -9,7 +9,6 @@
 [Autores](#autores)  
 
 # Portfolio-Pessoal
-![Capa do projeto](img/capa.png)
 Projeto criado utilizando exemplo do bootstrap para ensino de uso do README 
 
 ## Descrição
@@ -23,8 +22,7 @@ Neste projeto aprendemos a utilizar o Bootstrap e também a desenvolver nossa ha
 ## Funcionalidades
 Criado uma página com as seguintes funções:Cobrir, Inicío, Lançamento, Contato, Ocultar sua Página.
 Fora que ao entrar na página pode ser escolhido a opção de traduzir para Português uma logo que fica na parte 
-inferior da página. 
-![Capa do projeto](img/capa.png)
+inferior da página.  
 
 ### Tecnologias utilizadas 
 nesse Projeto usamos:
