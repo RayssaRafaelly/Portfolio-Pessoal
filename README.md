@@ -24,6 +24,8 @@ Criado uma página com as seguintes funções:Cobrir, Inicío, Lançamento, Cont
 Fora que ao entrar na página pode ser escolhido a opção de traduzir para Português uma logo que fica na parte 
 inferior da página.  
 
+![Capa do projeto](img/capa.png)
+
 ### Tecnologias utilizadas 
 nesse Projeto usamos:
 HTML
