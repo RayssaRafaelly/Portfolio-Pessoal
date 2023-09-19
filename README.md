@@ -15,10 +15,8 @@ Projeto criado utilizando exemplo do bootstrap para ensino de uso do README
     O Portifólio Pessoal é um projeto realizado que foi realizado em sala para melhora do uso do README.
 ## Introdução
 Neste projeto aprendemos a utilizar o Bootstrap e também a desenvolver nossa habilidade na construção do README.
-
-     Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.  
-
-     O arquivo README é muito importante para nossa aprendizagem e nosso desenvolvimento dentro e fora do colégio,em questão a objetivos futuros,como "trabalho".
+ Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.  
+O arquivo README é muito importante para nossa aprendizagem e nosso desenvolvimento dentro e fora do colégio,em questão a objetivos futuros,como "trabalho".
 ## Funcionalidades
 Criado uma página com as seguintes funções:Cobrir, Inicío, Lançamento, Contato, Ocultar sua Página.
 Fora que ao entrar na página pode ser escolhido a opção de traduzir para Português uma logo que fica na parte 
